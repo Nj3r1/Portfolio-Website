@@ -2,7 +2,6 @@ I'm Susan Njeri, a  Software Developer, Data Scientist, DevOps Engineer, passion
 
 🔧 Skills & Technologies
 Languages: Python, JavaScript, Java, C++, etc.
-
 Frameworks: React, Django, Flask, TensorFlow, etc.
 
 Tools: Docker, Kubernetes, Git, AWS/GCP, CI/CD
